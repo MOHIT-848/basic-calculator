@@ -15,7 +15,7 @@ if a>b:
     r=a/b
     print("DIVSION=",r)
 else:
-    rr=b/    print("DIVSION=",r)
+    rr=b/a
     print("DIVSION=",rr)
 #####program end #######
     
